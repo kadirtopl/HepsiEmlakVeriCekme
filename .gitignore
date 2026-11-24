@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+ChromeProfile/
+Release/
+Logs/
+Data/
+# Gizli ve kişisel veriler
+firebase-credentials.json
+*.xlsx
+saved_listings.txt
